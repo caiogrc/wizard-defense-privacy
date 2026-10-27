@@ -15,14 +15,9 @@ código, documento interno ou material do projeto entra aqui.
 
 ## Conteúdo
 
-- `index.html` — a página publicada.
+- `index.html` — a página publicada: inglês primeiro (`#en`), português abaixo
+  (`#pt`), na mesma URL cadastrada no AdMob e na Play Console.
 
-A fonte editorial deste texto vive em `docs/privacy-policy.md`, no repositório
-privado do jogo. **Ao mudar lá, replicar aqui** — a versão que vale juridicamente
-é a que está publicada nesta página.
-
-## Atenção ao ligar anúncios
-
-O texto atual declara que o jogo **não exibe anúncios**. Quando o anúncio
-recompensado entrar (card 5b), esta página e o formulário de Segurança de Dados
-da Play Console precisam ser atualizados **antes** do envio do build com anúncio.
+A fonte editorial deste texto vive em `docs/privacy-policy.en.md` e
+`docs/privacy-policy.md`, no repositório privado do jogo. **Ao mudar lá, replicar
+aqui** — a versão que vale juridicamente é a que está publicada nesta página.
